@@ -1,50 +1,51 @@
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <h3 align="center">
-  Welcome to Yousef Dergham's profile!
+  Welcome to Zakaria's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=QA%20Engineer%20%7C%20Software%20Engineer%20%7C%20;Always%20learning%20and%20growing&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 I'm a **QA Engineer** and **Software Engineer** with **4+ years** of experience.
+- 🌱 Currently undergoing **Frontend Engineering** training to broaden my development skillset.
+- 💬 Let's talk about **QA processes**, **frontend development**, **test automation**, or **software development best practices**.
+- 📖 When I’m not coding, I enjoy **self-learning** and reading books, especially on **philosophy** and **religion**.
 
+### 📢 Let's Connect:
 
-### Connect with Me :
+<a href="https://www.linkedin.com/in/zakaria-moustakim-915046173/" target="_blank"><img src="https://img.shields.io/badge/-Zakaria%20Moustakim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+### 🔧 Tech Skills & Tools:
+I’m experienced in a broad range of tools and technologies, including:
 
-<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+- **Languages**: Python 🐍, Java ☕
+- **Frontend Development**: HTML, CSS, JavaScript, React
+- **QA Tools**: Selenium 🧪, Cypress, Postman, JMeter
+- **CI/CD**: Jenkins 🚀
+- **Databases**: MySQL 💾
+- **Other Skills**: Web Scraping 🕸️, Test Automation 🤖, Git, GitHub, Agile Methodologies
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakaria&show_icons=true&theme=radical)
 
+### 🚀 What I'm Currently Working On:
+- Currently building expertise in **frontend technologies** like **HTML**, **CSS**, and **JavaScript**.
+- Working on **projects** involving **frontend development** and integrating **QA automation**.
 
+### 🌱 Continuous Learning:
+I’m a strong believer in **lifelong learning**. Whether it’s exploring new frontend frameworks or enhancing my testing skills, I’m always pushing myself to grow. Feel free to share any insightful resources or tips you’ve found helpful!
 
+### 💼 Featured Projects:
+Here are a few things I’ve been working on lately:
+- **Frontend Development Projects**: Building responsive websites and web applications.
+- **Test Automation Projects**: Writing robust test automation scripts for both frontend and backend applications.
+- **Personal Projects**: Check out my open-source contributions and ongoing side projects on my GitHub!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+---
+
+#### 📊 GitHub Activity:
+
+<a href="https://github.com/zakaria" target="_blank"><img src="https://komarev.com/ghpvc/?username=zakaria&style=for-the-badge"></a>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
